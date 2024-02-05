@@ -1,0 +1,12 @@
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/bin/Debug/net7.0/MyRootLibrary.deps.json
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/bin/Debug/net7.0/MyRootLibrary.dll
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/bin/Debug/net7.0/MyRootLibrary.pdb
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/MyRootLibrary.csproj.AssemblyReference.cache
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/MyRootLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/MyRootLibrary.AssemblyInfoInputs.cache
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/MyRootLibrary.AssemblyInfo.cs
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/MyRootLibrary.csproj.CoreCompileInputs.cache
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/MyRootLibrary.dll
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/refint/MyRootLibrary.dll
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/MyRootLibrary.pdb
+/Users/danielgarcia/Projects/MyRootLibraryProject/MyRootLibrary/obj/Debug/net7.0/ref/MyRootLibrary.dll

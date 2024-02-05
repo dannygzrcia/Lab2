@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{87BBE2C6-2B90-46B0-8699-7E9047CF8C56}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestMyRoot/Program.cs">
+    <Files>
+      <File FileName="MyRootLibrary/Class1.cs" Line="16" Column="1" />
+      <File FileName="TestMyRoot/Program.cs" Line="2" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyRootLibraryProject" expanded="True">
+            <Node name="TestMyRoot" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestMyRoot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lab2 FirstBuild="True" />
+</Properties>
